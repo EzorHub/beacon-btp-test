@@ -1,3 +1,6 @@
+// 2022-10-05 SYPARK
+// urlencode 방식을 위해 queryString 강제변환 후 전송 시도
+
 //var queryurl = "https://log.smart-factory.kr/apisvc/sendLogData.json";
 var queryurl = "https://log.smart-factory.kr/apisvc/sendLogData.json";
 var username = "_ODATA";
